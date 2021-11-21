@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ribbit Network Engineering
+title: Ribbit Engineering
 email: keenan.johnson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Semi-regular blog posts to document how the Ribbit Network team is solving
