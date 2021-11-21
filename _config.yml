@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RibbitNetwork
 github_username:  Ribbit-Network
+timezone: America/New_York
 
 # Build settings
 theme: minima
